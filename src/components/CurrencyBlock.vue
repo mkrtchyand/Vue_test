@@ -82,6 +82,7 @@ function convert(id) {
 .icon {
   width: 20px;
   cursor: pointer;
+  transform: rotate(90deg);
 }
 
 .table {

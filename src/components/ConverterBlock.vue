@@ -68,6 +68,7 @@ function getActiveItem(val) {
     cursor: pointer;
     margin-left: 10px;
     margin-right: 10px;
+    transform: rotate(90deg);
   }
 
   &__main-block {
